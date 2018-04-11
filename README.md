@@ -1,2 +1,2 @@
-# vplanet-
-vplanet++
+# vplanet++
+vplanet, but better
